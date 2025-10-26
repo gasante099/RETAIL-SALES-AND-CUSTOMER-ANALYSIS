@@ -2,11 +2,14 @@
 The aim of the project is to analyze the sales data to understand customer behaviour and product performance.
 
 
+
 EXECUTIVE SUMMARY
 
 The dataset comprises 1,000 retail transactions, representing purchases made by 1,000 unique customers.
 Product performance analysis indicates that Clothing, Electronics and Beauty are the leading product categories by transaction volume.
 The purpose of the analysis is to generate insights into customer demographics, product performance, and overall sales trends to support data-driven decision-making in marketing, inventory, and customer relationship management.
+
+
 
 
 PROBLEM STATEMENT
@@ -17,6 +20,8 @@ The aim of the project is to analyse the sales data to understand customer behav
 •	What is the overall sales performance through total revenue and average transaction value.
 
 
+
+
 DATA UNDERSTANING
 
 Data description
@@ -24,6 +29,8 @@ Number of records – 1000
 Number of columns – 10
 
 Key fields – Customer ID, Age, Product Category, Quantity bought and Total Amount.
+
+
 
 
 METHODOLOGY
@@ -42,6 +49,8 @@ Key steps included:
 
 
 
+
+
 RESULTS / FINDINGS
 
 Total customers: 1,000 unique individuals.
@@ -56,6 +65,8 @@ Revenue by Age Group: Young Adults generated the most revenue, followed by Adult
 
 
 
+
+
 DICUSSIONS ANS INTERPRETATION
 
 •	The balanced gender distribution implies that marketing strategies can be designed to appeal to both male and female consumers equally.
@@ -64,10 +75,14 @@ DICUSSIONS ANS INTERPRETATION
 
 
 
+
+
 RECCOMENDATION
 
 The analysis reveals a well-balanced retail performance across both customer demographics and product categories.
 While sales differences among the products were minimal, indicating strong performance across all items, there was a more pronounced variation among age groups. Young Adults emerged as the leading segment, suggesting that targeted marketing campaigns toward this group could further boost sales and overall revenue.
+
+
 
 CONCULSION
 

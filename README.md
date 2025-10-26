@@ -28,7 +28,8 @@ Key steps included:
 •	Analysis Technique: Formulas segmentation
 •	Visualization: A dashboard with bar charts, a donut chat and KPI cards was used.
 
- 
+ <img width="1020" height="551" alt="image" src="https://github.com/user-attachments/assets/c0629bf3-f049-46e9-9f7b-81d3f1c07416" />
+
 
 
 RESULTS / FINDINGS
